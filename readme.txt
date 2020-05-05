@@ -7,7 +7,7 @@ License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
-=== Installation ===
+%%% Installation %%%
 
 1. Upload this theme
 2. Upload child theme (mate-child) and read the installation instructions in readme.txt
